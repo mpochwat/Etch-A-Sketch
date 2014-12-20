@@ -1,0 +1,39 @@
+.button {
+	margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height: 40px;
+    width: 58px;
+    border: none;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    border: none;
+}
+
+#square {
+	background-color: blue;
+	height: 26px;
+	width: 26px;
+	float: left;
+	border: 1px solid;
+}
+
+button {
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+	color: #444;
+	background-color: #f5f5f5;
+	border: 1px solid rgba(0,0,0,0.1);
+	height: 29px;
+	line-height: 27px;
+	border-radius: 2px;
+	font-size: 16px;	
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	padding: 0 8px;
+}
